@@ -1,0 +1,57 @@
+# מאי תור - MYTOUR — Generative Engine Optimization Map
+
+> A תיירות ונסיעות business.
+
+---
+
+## Pages
+
+### דף הבית
+https://mytour-c45e20a2.zappy5.app
+חוויות תיירות ייחודיות ואטרקציות מרהיבות בישראל ובעולם. הזמן את חבילת הנופש הבאה שלך עוד היום!
+
+### יעדים ואטרקציות
+https://mytour-c45e20a2.zappy5.app/services
+גלה את מגוון האטרקציות ויעדי התיירות שלנו - חבילות נופש זולות לחול, טיסות זולות מישראל להודו ועוד. תכנן את הטיול המושלם!
+
+### אודות
+https://mytour-c45e20a2.zappy5.app/about
+הכירו את מאי תור - מומחי התיירות והאטרקציות. שנים של ניסיון בתכנון חבילות נופש זולות לחול וטיסות זולות מישראל להודו.
+
+### צור קשר
+https://mytour-c45e20a2.zappy5.app/contact
+צור קשר עם מאי תור לתכנון חבילות נופש זולות לחול, טיסות זולות מישראל להודו ואטרקציות ייחודיות. נשמח לעזור!
+
+## Legal & Policy
+
+### Privacy Policy
+https://mytour-c45e20a2.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://mytour-c45e20a2.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://mytour-c45e20a2.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מאי תור - MYTOUR
+מאי תור - MYTOUR is a business in the תיירות ונסיעות industry.
+
+## Target Audience
+קהל ישראלי
+
+## Industry
+תיירות ונסיעות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://mytour-c45e20a2.zappy5.app/sitemap.xml
+- **Robots.txt**: https://mytour-c45e20a2.zappy5.app/robots.txt

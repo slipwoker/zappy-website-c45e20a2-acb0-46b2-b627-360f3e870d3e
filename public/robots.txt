@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mytour-c45e20a2.zappy5.app/sitemap.xml
